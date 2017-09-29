@@ -18,7 +18,7 @@
 	url = https://github.com/areaDetector/ADCameraLink.git
 [submodule "ADCore"]
 	path = ADCore
-	url = https://github.com/areaDetector/ADCore.git
+	url = https://github.com/lcavalli/ADCore.git
 [submodule "ADDexela"]
 	path = ADDexela
 	url = https://github.com/areaDetector/ADDexela.git
