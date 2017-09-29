@@ -84,7 +84,7 @@
 	url = https://github.com/areaDetector/ADSimDetector.git
 [submodule "ADSupport"]
 	path = ADSupport
-	url = https://github.com/areaDetector/ADSupport.git
+	url = https://github.com/lcavalli/ADSupport.git
 [submodule "ADURL"]
 	path = ADURL
 	url = https://github.com/areaDetector/ADURL.git
