@@ -107,6 +107,12 @@ ZLIB_EXTERNAL = NO
 #ZLIB_INCLUDE =
 #ZLIB_LIB     =
 
+# CFITSIO is required for the NDFileFITS plugin.
+WITH_CFITSIO     = YES
+CFITSIO_EXTERNAL = NO
+#CFITSIO_INCLUDE =
+#CFITSIO_LIB     =
+
 # The definitions above can be overridden in the following files.
 # The files are searched in this order, with the last definition being used.
 #    CONFIG_SITE.local.$(OS_CLASS)
